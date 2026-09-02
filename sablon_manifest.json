@@ -1,5 +1,5 @@
-{
-  "surum": 1,
-  "notlar": "Cezaevi Bilgilendirme Mektubu - Maddi Edimli taksit/peşin metni güncellendi",
-  "zip_url": "https://github.com/Adaletcelik/uzlas-app-releases/releases/download/sablon-v1/templates.zip"
-}
+   {
+     "surum": 3,
+     "notlar": "Önemli: Güncelleme yapmadan önce var olan şablonunuzu uygulama içerisinde şablon özelleştirme sekmesinden önce yedek alın...Cezaevi Bilgilendirme Mektubu Güncellemesi",
+     "zip_url": "https://github.com/Adaletcelik/uzlas-app-releases/releases/download/sablon-v3/templates.zip"
+   }
